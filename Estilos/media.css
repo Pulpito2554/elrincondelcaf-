@@ -1,0 +1,9 @@
+@media screen and (max-width:576px)
+{
+    nav{
+        background:rgb(250, 179, 215);   }
+        #ocultar{display:none;}
+        .art-1{width:100vw}
+ 
+    
+}
